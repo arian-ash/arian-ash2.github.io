@@ -1,0 +1,24 @@
+{
+  "name": "arian-ash2.github.io",
+  "version": "1.0.0",
+  "description": "Web 2 Project Casio",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arian-ash/arian-ash2.github.io.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/arian-ash/arian-ash2.github.io/issues"
+  },
+  "homepage": "https://github.com/arian-ash/arian-ash2.github.io#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.8"
+  }
+}
