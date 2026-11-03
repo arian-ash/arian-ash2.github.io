@@ -31,9 +31,45 @@
     font-family: Roboto;
 }
 /*Part 1*/
-
-.div2{
+.div1{
+    background-image: url("../images/img_02_HP.avif");
+}
+.div1,.div2,.div3{
     font-family: Roboto;
-    top: 300px;
-    left: 20px;
+    width: 100%;
+}
+.div2{
+    background-image: url("../images/gsy-triptych-icons-rewired-mobile.webp");
+}
+.div3{
+    background-image: url("../images/mv_sp.webp");
+}
+/*Part 2*/
+.header1,.header2{
+    font-family: Roboto;
+}
+@media all and (max-width:767px) {
+    .header1{
+        font-size: 3.7333333333vw;
+        font-size: 16px;
+    }
+    .header2{
+        font-size: 20px;
+        line-height: 1.6;
+    }
+}
+@media all and (min-width:767px){
+    .header2{
+        font-size: 32px;
+        line-height: 1.6;
+        font-weight: 700;
+    }
+}
+/*Part 3*/
+.div5{
+    font-family: Roboto;
+}
+/*Part 4*/
+.div6,.div7{
+    font-family: Roboto;
 }
