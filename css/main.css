@@ -69,7 +69,26 @@
 .div5{
     font-family: Roboto;
 }
-/*Part 4*/
+/*Part 4 & Part 5*/
 .div6,.div7{
     font-family: Roboto;
+}
+/*Part 6*/
+.div8,.div9,.div10,.div11,.div12,.div13{
+    font-family: Roboto;
+}
+/*Part 7*/
+.header3{
+    font-family: Roboto;
+}
+/*Part 8*/
+.div14,.div15,.div16.div17{
+    font-family: Roboto;
+}
+/*Part 9*/
+@media (max-width: 767px){
+    .header4{
+        font-size: 20px;
+        line-height: 1.6;
+    }
 }
