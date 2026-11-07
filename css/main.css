@@ -92,3 +92,39 @@
         line-height: 1.6;
     }
 }
+/*Part 10*/
+
+@media (min-width: 300px){
+    .whats-new-link{
+        font-family: Roboto;
+        font-size: 12px;
+        width: 285px;
+        height: 45px;
+    }
+    .header5{
+        font-family: Roboto;
+        font-size: 20px;
+        line-height: 1.6;
+    }
+}
+/*Part 11*/
+
+@media (max-width: 767px) {
+    .absolute-toughness-class{
+        font-size: 10px;
+        letter-spacing: .18em;
+        line-height: 16px;
+        width: 100%
+    }
+}
+/*Part 12*/
+@media (max-width: 767px){
+    .buy-now-link{
+        font-size: 10px;
+        line-height: 18px;
+        margin-left: 4vw;
+        margin-right: 4vw;
+        min-height: 34px;
+        padding: 8px 12px;
+    }
+}
