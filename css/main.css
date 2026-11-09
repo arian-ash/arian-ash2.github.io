@@ -117,6 +117,9 @@
         width: 100%
     }
 }
+.absolute-toughness-class{
+    font-family: Roboto;
+}
 /*Part 12*/
 @media (max-width: 767px){
     .buy-now-link{
@@ -128,3 +131,20 @@
         padding: 8px 12px;
     }
 }
+.buy-now-link{
+    font-family: Roboto;
+}
+/*Part 13*/
+
+@media (max-width: 767px) {
+    .learn-more-link{
+        font-size: 12px;
+    }
+}
+.learn-more-link{
+    font-family: Roboto;
+    width: 283px;
+    height: 45px;
+}
+/*Part 14*/
+
